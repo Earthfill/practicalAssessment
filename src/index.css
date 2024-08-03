@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #ff8a00, #e52e71);
+  min-height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  font-size: 3em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.filter-container {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.filter-container button {
+  margin: 0 10px;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  color: #ff8a00;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-weight: bold;
+}
+
+.filter-container button:hover {
+  background-color: #ff8a00;
+  color: #fff;
+}
