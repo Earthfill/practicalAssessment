@@ -25,7 +25,7 @@ This is a unique and visually striking web application for maintaining a wishlis
 
 ### Deployment Link
 
-The web app is deployed at: [Travel Destination Wishlist](https://)
+The web app is deployed at: [Practical Assessment](https://practicalassessment.netlify.app)
 
 ## Assumptions and Additional Features
 
